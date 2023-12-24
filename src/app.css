@@ -1,0 +1,11 @@
+.App>:nth-child(1){
+    position: relative;
+    background: var(--black);
+}
+.white-gradient{
+    height: 25rem;
+    width: 25rem;
+    background-color: rgba(177, 172, 167, 0.445);
+position: absolute;
+filter: blur(100px);
+}
