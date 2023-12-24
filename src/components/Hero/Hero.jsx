@@ -12,15 +12,14 @@ const Hero = () => {
                 <div className=" flexColStart hero-left">
 
                     <div className="hero-title">
-                        <div className="circle" />
-                        <h1> Discover <br />
-                            Most Suitable <br />
-                            Property</h1>
+                        {/* <div className="circle"/> */}
+                        <h1> Discover</h1>
+                        <h1> The world of art<br/> by Chandana Suresh</h1>
                     </div>
 
                     <div className="flexColStart secondaryText  hero-des">
-                        <span> Find a variety of properties that suit you very easilty</span>
-                        <span> Forget all difficulties in finding a residence for you</span>
+                        <span> Find from a variety of paintings that suit you</span>
+                        <span> Forget all difficulties in you</span>
                     </div>
 
                     <div className="flexCenter search-bar">
@@ -54,7 +53,7 @@ const Hero = () => {
 
                 <div className="hero-right">
                     <div className="img-container">
-                        <img src="./hero-image.png" alt="Hero" width={100} />
+                        <img src="./public/Pics/Chandana.jpeg" alt="Hero" />
                     </div>
                 </div>
 

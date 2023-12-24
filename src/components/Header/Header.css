@@ -22,3 +22,13 @@ gap: 2rem;
 cursor: pointer;
 transform: scale(1.1);
 }
+.green {
+    color:  #184233 ;
+}
+.maroon {
+    color: #ffffff
+}
+#thick {
+    font-weight: bold;
+    display: inline;
+}
