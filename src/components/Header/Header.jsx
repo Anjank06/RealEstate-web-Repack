@@ -9,14 +9,15 @@ const Header = () => {
 
                 {/* Logo  */}
 
-                <img src="./logo.png" alt="logo" width={100} />
+                {/* <img src="./logo.png" alt="logo" width={100} /> */}
+                <a width={100}>Piscean Canvas</a>
 
                 <div className="flexCenter h-menu">
 
-                    <a href="">Residences</a>
-                    <a href="">Our Value</a>
-                    <a href="">Contact Us</a>
-                    <a href="">Get Started</a>
+                    <a href="">Home</a>
+                    <a href="">The Artist</a>
+                    <a href="">Artworks</a>
+                    <a href="">Book Online</a>
                     <button className='button'>
                         <a href="">Contact</a>
                     </button>
