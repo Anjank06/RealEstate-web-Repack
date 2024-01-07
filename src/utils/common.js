@@ -1,6 +1,6 @@
 export const sliderSettings = {
 
-slidesPerView :1,
+slidesPerView :2,
 
 spaceBetween:50,
 

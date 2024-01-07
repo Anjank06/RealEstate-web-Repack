@@ -19,6 +19,7 @@ const Residencies = () => {
                     <span className='primaryText'>Popular Residencies</span>
 
                 </div>
+                
 
                 {/* slider  */}
 
