@@ -10,7 +10,6 @@ const Header = () => {
                 {/* Logo  */}
 
                 {/* <img src="./logo.png" alt="logo" width={100} /> */}
-                {/* <a width={100}>Piscean Canvas</a> */}
                 <a width={100} id="thick" class="navbar-brand"><span class="green">P</span>
                 <span class="maroon">iscean </span>
                 <span class="green">C</span>

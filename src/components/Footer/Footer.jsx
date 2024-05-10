@@ -10,7 +10,11 @@ const Footer = () => {
 
                 <div className="flexColStart f-left">
 
-                    <img src="./logo2.png" alt="logo" width={120} />
+                    {/* <img src="./logo2.png" alt="logo" width={120} /> */}
+                    <a width={100} id="thick" class="navbar-brand"><span class="greenfooter">P</span>
+                    <span class="maroonfooter">iscean </span>
+                    <span class="greenfooter">C</span>
+                    <span class="maroonfooter">anvas</span></a>
 
                     <span className='secondaryText'>
                         Our vision is to make all people <br />
@@ -36,7 +40,7 @@ const Footer = () => {
 
             </div>
 
-<div className="secondaryText rights">&copy; All Rights Reserved by Muhammad Abdullah</div>
+<div className="secondaryText rights">&copy; All Rights Reserved by Anjan Kumar</div>
 
         </section>
     )

@@ -16,7 +16,7 @@ const Residencies = () => {
                 <div className="r-head flexColStart">
 
                     <span className='orangeText'>Best Choice</span>
-                    <span className='primaryText'>Popular Residencies</span>
+                    <span className='primaryText'>Popular Collection</span>
 
                 </div>
                 
