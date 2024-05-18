@@ -14,7 +14,7 @@ const Hero = () => {
                     <div className="hero-title">
                         {/* <div className="circle"/> */}
                         <h1> Discover</h1>
-                        <h1> The world of art<br/> by Chandana Suresh</h1>
+                        <h1> The world of art<br/> by Chandana </h1>
                     </div>
 
                     <div className="flexColStart secondaryText  hero-des">
@@ -32,7 +32,7 @@ const Hero = () => {
 
                         <div className="flexColCenter stat">
 
-                            <span><CountUp start={300} end={1500} duration={4} /> <span className='plus'>+</span> </span>
+                            <span><CountUp start={300} end={1500} duration={5} /> <span className='plus'>+</span> </span>
                             <span className='secondaryText'>Premium Product</span>
                         </div>
                         <div className="flexColCenter stat">
@@ -40,12 +40,6 @@ const Hero = () => {
                             <span><CountUp start={500} end={3000} duration={4} /> <span className='plus'>+</span> </span>
                             <span className='secondaryText'>Happy Customers</span>
                         </div>
-                        <div className="flexColCenter stat">
-
-                            <span><CountUp  end={35} duration={4} /> <span className='plus'>+</span> </span>
-                            <span className='secondaryText'>Award Wining</span>
-                        </div>
-
 
                     </div>
 

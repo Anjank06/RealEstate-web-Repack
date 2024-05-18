@@ -32,7 +32,7 @@ const Footer = () => {
                     <span className="secondaryText">Chack Jhumra ,FSD,PUNJAB ,PAKISTAN</span>
 
                     <div className="flexCenter menu">
-                        <span>Property</span> <span>Service</span><span>Product</span><span>About Us</span>
+                        <span>Gallery</span> <span>Service</span><span>Product</span><span>About Us</span>
                     </div>
 
                 </div>
